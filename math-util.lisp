@@ -101,7 +101,7 @@
 
 
 (defun W-1 (z)
-  "SEE 'Numerical evaluation of the lamber w function and application
+  "SEE 'Numerical evaluation of the lambert w function and application
  to generation of generalized gaussian noise with exponent 1/2'"
   (declare (double-float z))
   (cond
