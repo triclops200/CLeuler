@@ -1,0 +1,15 @@
+runproject
+*.tar.gz
+*.o
+*.d
+*.swp
+.sconsign.dblite
+.*
+!.gitignore
+out
+*#
+#*
+*~
+*.stamp
+*/build/*
+*.fasl
